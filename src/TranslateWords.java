@@ -80,7 +80,6 @@ public class TranslateWords {
        }
        frequencyWriter.close();
        
-       
        // Write performance to performance.txt
        long startTime = System.currentTimeMillis();
        
